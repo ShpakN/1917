@@ -1,0 +1,7 @@
+# ninja log v5
+0	100	7340290890007828	build.ninja	14c62e1f20a512b5
+6	54	7340290890947820	CMakeFiles/1517.dir/string/task/string_.c.obj	2824fb3178865f0b
+3	54	7340290890947820	CMakeFiles/1517.dir/main.c.obj	321181805f86772
+0	221	7340290892617819	CMakeFiles/1517.dir/main.cpp.obj	4beb806af82dbefd
+2	45	7340291194088490	CMakeFiles/1517.dir/string/task/string_.c.obj	2824fb3178865f0b
+2	43	7340291341166020	CMakeFiles/1517.dir/string/task/string_.c.obj	2824fb3178865f0b
